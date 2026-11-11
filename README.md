@@ -1,5 +1,6 @@
 # Claude Status Bar (CSB)
-n![CSB: Clawd, context ring, 5h and weekly limit rings with pace deltas](docs/screenshot.png)
+
+![CSB: Clawd, context ring, 5h and weekly limit rings with pace deltas](docs/screenshot.png)
 
 A mod for the Claude desktop app. It adds one slim bar above the prompt:
 
