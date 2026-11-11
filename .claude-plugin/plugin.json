@@ -1,0 +1,20 @@
+{
+  "name": "csb",
+  "version": "0.1.0",
+  "description": "A bar above the prompt in the Claude desktop app: Clawd reacts to what Claude does, with context and usage-limit rings and a pace delta",
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "keywords": [
+    "status-bar",
+    "usage",
+    "limits",
+    "clawd",
+    "desktop"
+  ],
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "prototype-xk",
+    "url": "https://github.com/prototype-xk"
+  },
+  "homepage": "https://github.com/prototype-xk/Claude-Status-Bar",
+  "repository": "https://github.com/prototype-xk/Claude-Status-Bar"
+}

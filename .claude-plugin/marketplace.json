@@ -1,0 +1,5 @@
+{
+  "name": "csb",
+  "owner": { "name": "prototype-xk" },
+  "plugins": [{ "name": "csb", "source": "./" }]
+}
